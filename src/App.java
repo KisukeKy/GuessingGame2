@@ -26,4 +26,4 @@ public class App {
         System.out.println("Thank you for playing! Goodbye.");
         scanner.close();
     }
-}
+}//news
